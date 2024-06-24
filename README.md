@@ -1,10 +1,8 @@
 🔭 I'm currently working on a security management
 [![animated](https://github.com/stevemats/stevemats/blob/master/img/steve-code.gif)](https://stevematindi.com)
 
----
 
-math
-\ce{ $\sf\ce{C_{6}H_{12}O_{6}}$ }
+```math \ce{ $& # x5C; unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://user-images.githubusercontent.com/30528167/92789817-e4b53d80-f3b3-11ea-96a4-dad3ea0d9d237.png?raw=true'); }[x0000]$ }
 
 <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="sass" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="sass" width="40" height="40">  </p>
 
