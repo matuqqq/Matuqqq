@@ -8,8 +8,8 @@ math
 
 <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="sass" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="sass" width="40" height="40">  </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matuqqq&repo=HardwareDuty)](https://github.com/matuqqq/HardwareDuty)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matuqqq&repo=Pokeapi)](https://github.com/matuqqq/Pokeapi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matuqqq&repo=HardwareDuty&theme=radical)](https://github.com/matuqqq/HardwareDuty)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matuqqq&repo=Pokeapi&theme=radical)](https://github.com/matuqqq/Pokeapi)
 
 
 <p align="center">
