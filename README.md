@@ -20,5 +20,3 @@
 ## Contact Me
 
 Discord: matuqqq
-
-![](https://komarev.com/ghpvc/?username=unwxnted)
